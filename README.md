@@ -1,22 +1,24 @@
 
 > このページを開く [https://skytree-1.github.io/microbit-attimuitehoi-wireless/](https://skytree-1.github.io/microbit-attimuitehoi-wireless/)
 
-## 拡張機能として使用
+[チュートリアル全体を表示](https://skytree-1.github.io/microbit-attimuitehoi-wireless/tutorial)
 
-このリポジトリは、MakeCode で **拡張機能** として追加できます。
+# シリアル通信のプログラム
 
-* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
-* **新しいプロジェクト** をクリックしてください
-* ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/skytree-1/microbit-attimuitehoi-wireless** を検索してインポートします。
+micro:bit からシリアル通信でPCへデータを送る方法を学ぶチュートリアルです。
 
-## このプロジェクトを編集します
+## このチュートリアルで学ぶこと
 
-MakeCode でこのリポジトリを編集します。
+- micro:bitからシリアル通信でデータをPCへ送り、確認する
 
-* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
-* **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/skytree-1/microbit-attimuitehoi-wireless** を貼り付けてインポートをクリックしてください
+## チュートリアル
+
+詳しい手順は `tutorial.md` を参照してください。
+
+
+## 実行
+
+* [チュートリアルを実行](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/microbit-attimuitehoi-wireless/tutorial) 
 
 #### メタデータ (検索、レンダリングに使用)
 
