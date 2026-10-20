@@ -3,7 +3,8 @@
 ## 1. ゲームの概要  @unplugged
 
 micro:bitを使って「あっちむいてほい」をやってみよう。
-![ゲームの概要](https://skytree-1.github.io/microbit-attimuitehoi-wireless/images/s001.png)
+
+![ゲームの概要](https://skytree-1.github.io/microbit-attimuitehoi-wireless/images/a001.png)
 
 ## 1. ゲームの概要（つづき）  @unplugged
 
