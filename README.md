@@ -26,7 +26,7 @@ microを使って、無線通信で「あっちむいてほい」をやってみ
 4. 負けた人は、受け取った方向を考えてmicroを動かす
 5.「😊」「×」で結果を確認する
 
-![ゲームの流れ]（images/a001.png）
+![ゲームの流れ](https://skytree-1.github.io/microbit-attimuitehoi-wireless/images/a001.png)
 
 ## 使用するもの
 
